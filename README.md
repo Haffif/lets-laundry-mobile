@@ -1,7 +1,7 @@
 # lets-laundry-mobile
 FP Platform Mobile Kelompok 7
 
-**Anggota Kelompok ITB06**
+**Anggota Kelompok**
 
 - Haffif Rasya Fauzi		5027201002
 - Salsabila Briliana A.S    5027201003
